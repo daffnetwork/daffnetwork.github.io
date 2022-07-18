@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.A. in Innational Business and Social Sciences, Rhine-Waal University 2020
+* M.S. in Applied Economics, Strathclyde University, 2021
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
